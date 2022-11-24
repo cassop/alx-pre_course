@@ -1,0 +1,6 @@
+git pull origin master
+
+or if manual review is needed
+git fetch origin
+git remote show origin
+review and merge
